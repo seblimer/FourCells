@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FourCells {
-	class Block {
+	abstract class Block {
+        public int i;
 	}
 }
